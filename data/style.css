@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  -moz-user-select: none;
+}
+
+body {
+  margin: 0px; 
+  font-family: Helvetica, Arial, sans-serif;
+  color: #555;
+}
+
+h2 { text-align: center; }
+
+table#schedule {
+  border: 2px solid #000;
+  margin: 0 auto;
+  font-size: 12px;
+}
+
+table#schedule tr, table#schedule td, table#schedule th {
+  border: 2px solid #000;
+}
