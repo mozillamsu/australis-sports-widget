@@ -1,0 +1,3 @@
+[submodule "lib/xul-manager"]
+	path = lib/xul-manager
+	url = git://github.com/dpoggi/xul-manager.git

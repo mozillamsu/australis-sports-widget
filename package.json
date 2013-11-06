@@ -9,5 +9,6 @@
   "permissions": {
     "cross-domain-content": ["http://msuspartans.com/", "http://www.msuspartans.com",
                              "https://msuspartans.com", "https://www.msuspartans.com"]
-  }
+  },
+  "unpack": true
 }

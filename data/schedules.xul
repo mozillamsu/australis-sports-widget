@@ -1,0 +1,30 @@
+<label id="title">Scores/Schedules</label>
+
+<vbox id="schedules">
+  <vbox id="m-footbl" class="schedule">
+    <hbox class="schedule-head" oncommand="return false;">
+      <label class="sport-name">Football</label>
+    </hbox>
+
+    <vbox class="schedule-inner">
+    </vbox>
+  </vbox>
+
+  <vbox id="m-baskbl" class="schedule">
+    <hbox class="schedule-head" oncommand="return false;">
+      <label class="sport-name">Men's Basketball</label>
+    </hbox>
+
+    <vbox class="schedule-inner">
+    </vbox>
+  </vbox>
+
+  <vbox id="w-baskbl" class="schedule">
+    <hbox class="schedule-head" oncommand="return false;">
+      <label class="sport-name">Women's Basketball</label>
+    </hbox>
+
+    <vbox class="schedule-inner">
+    </vbox>
+  </vbox>
+</vbox>
