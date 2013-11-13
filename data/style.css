@@ -23,5 +23,9 @@
 }
 
 .score:last-child {
-    border-bottom: none;
+  border-bottom: none;
+}
+
+#australis-sports-widget {
+  overflow: scroll;
 }
